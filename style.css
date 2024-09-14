@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#clock{
+    background-color: rgb(152, 84, 216,0.7);
+    font-size: 100px;
+    width: 100vw;
+    height: 100vh;
+    margin: 0;
+    text-align: center;
+    display: inline;
+    margin-top: 50px;
+}
+
